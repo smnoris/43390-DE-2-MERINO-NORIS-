@@ -1,0 +1,21 @@
+{
+  "name": "desafio-entregable-2",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "desafio_entregable_2",
+  "main": "productManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sebas",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smnoris/43390-DE-2-MERINO-NORIS-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smnoris/43390-DE-2-MERINO-NORIS-/issues"
+  },
+  "homepage": "https://github.com/smnoris/43390-DE-2-MERINO-NORIS-#readme"
+}
